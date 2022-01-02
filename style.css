@@ -7,7 +7,7 @@ body{
     background-size: cover;
     background-position: center;
     font-family:  sans-serif ;
-    background-repeat:space;
+    background-repeat:repeat;
     
 }
 .form-box{
