@@ -82,3 +82,7 @@ h1{
 a{
     text-decoration-color: transparent;
 }
+img {
+    max-width: 100%;
+    display: block;
+  }
